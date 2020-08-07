@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f951148-f461-47d8-88df-1a88cc2798f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GPAXF@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GPAXF@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="GPAXF@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="GPAXF: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GPAXF" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bYpGyc9iW6ci57eFPFAQawLkw9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/python学习/python代码/小甲鱼" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/user" />
+      <recent name="$PROJECT_DIR$/static/axf" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static/axf/user/css" />
+      <recent name="$PROJECT_DIR$/static/axf/main/css" />
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/templates/main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.views">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GPAXF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/App" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GPAXF" type="Python.DjangoServer" factoryName="Django server">
+      <module name="GPAXF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GPAXF@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GPAXF@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@1a2763c7" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f951148-f461-47d8-88df-1a88cc2798f9" name="Default Changelist" comment="" />
+      <created>1588818789326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588818789326</updated>
+      <workItem from="1588818792301" duration="3549000" />
+      <workItem from="1588838160212" duration="5027000" />
+      <workItem from="1588925593446" duration="176000" />
+      <workItem from="1588925823719" duration="7447000" />
+      <workItem from="1588933653367" duration="53000" />
+      <workItem from="1588933731136" duration="26000" />
+      <workItem from="1588933802439" duration="1878000" />
+      <workItem from="1588988250777" duration="11743000" />
+      <workItem from="1589010707338" duration="17241000" />
+      <workItem from="1589074094447" duration="18775000" />
+      <workItem from="1589162630608" duration="15880000" />
+      <workItem from="1589248155382" duration="22907000" />
+      <workItem from="1589337290651" duration="2000" />
+      <workItem from="1589337377264" duration="26331000" />
+      <workItem from="1589374535969" duration="9000" />
+      <workItem from="1589421786427" duration="22504000" />
+      <workItem from="1589530198801" duration="6823000" />
+      <workItem from="1589539896727" duration="4021000" />
+      <workItem from="1589595095083" duration="21893000" />
+      <workItem from="1589682197045" duration="38904000" />
+      <workItem from="1589963693645" duration="5737000" />
+      <workItem from="1590025748186" duration="3441000" />
+      <workItem from="1590029213829" duration="3916000" />
+      <workItem from="1590129167421" duration="1069000" />
+      <workItem from="1590198575008" duration="4169000" />
+      <workItem from="1591430818619" duration="1526000" />
+      <workItem from="1591604466498" duration="1824000" />
+      <workItem from="1591607086689" duration="1379000" />
+      <workItem from="1591608482590" duration="9148000" />
+      <workItem from="1591785722297" duration="2716000" />
+      <workItem from="1591788834510" duration="29000" />
+      <workItem from="1591788877169" duration="1258000" />
+      <workItem from="1591841809444" duration="2285000" />
+      <workItem from="1591845992081" duration="12000" />
+      <workItem from="1591847439736" duration="22000" />
+      <workItem from="1591866307178" duration="567000" />
+      <workItem from="1592041479398" duration="97000" />
+      <workItem from="1595413335111" duration="2014000" />
+      <workItem from="1595642070883" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="65" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591866710982">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="65" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.735.576@65.24.735.576" timestamp="1591866710982" />
+    <state width="264" height="195" key="DatabaseViewActions_Filter" timestamp="1588932150572">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="264" height="195" key="DatabaseViewActions_Filter/65.24.735.576@65.24.735.576" timestamp="1588932150572" />
+    <state x="29" y="16" key="FileChooserDialogImpl" timestamp="1595642174503">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="29" y="16" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1595642174503" />
+    <state x="80" y="34" key="FileChooserDialogImpl/65.24.735.576@65.24.735.576" timestamp="1591789733894" />
+    <state width="457" height="104" key="GridCell.Tab.0.bottom" timestamp="1591866897918">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="457" height="104" key="GridCell.Tab.0.bottom/65.24.735.576@65.24.735.576" timestamp="1591866897918" />
+    <state width="457" height="104" key="GridCell.Tab.0.center" timestamp="1591866897917">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="457" height="104" key="GridCell.Tab.0.center/65.24.735.576@65.24.735.576" timestamp="1591866897917" />
+    <state width="457" height="104" key="GridCell.Tab.0.left" timestamp="1591866897915">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="457" height="104" key="GridCell.Tab.0.left/65.24.735.576@65.24.735.576" timestamp="1591866897915" />
+    <state width="457" height="104" key="GridCell.Tab.0.right" timestamp="1591866897917">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="457" height="104" key="GridCell.Tab.0.right/65.24.735.576@65.24.735.576" timestamp="1591866897917" />
+    <state x="65" y="24" key="SettingsEditor" timestamp="1591608503217">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="65" y="24" key="SettingsEditor/65.24.735.576@65.24.735.576" timestamp="1591608503217" />
+    <state width="595" height="448" key="SwitcherDM" timestamp="1589964202840">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state width="595" height="448" key="SwitcherDM/65.24.735.576@65.24.735.576" timestamp="1589964202840" />
+    <state x="334" y="194" width="445" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589511594978">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="334" y="194" width="445" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/65.24.735.576@65.24.735.576" timestamp="1589511594978" />
+    <state x="432" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1595642071173">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="432" y="232" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1595642071173" />
+    <state x="72" y="23" width="719" height="678" key="search.everywhere.popup" timestamp="1591843781639">
+      <screen x="65" y="24" width="735" height="576" />
+    </state>
+    <state x="72" y="23" width="719" height="678" key="search.everywhere.popup/65.24.735.576@65.24.735.576" timestamp="1591843781639" />
+  </component>
+</project>
